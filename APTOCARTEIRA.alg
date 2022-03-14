@@ -1,4 +1,4 @@
-algoritmo "Aptoadirigir"
+algoritmo "AptoADirigir"
 var
    ano, nasc, idade  : Inteiro
 
